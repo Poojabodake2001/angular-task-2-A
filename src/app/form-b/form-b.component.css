@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid red;
+    padding: 20px;
+    margin:0 auto;
+    width: fit-content;
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+.center{
+    text-align: center;
+    margin: 20px;
+}
+.col-6{
+    text-align: left;
+}
+.form-control{
+    border: 1px solid black;
+}
